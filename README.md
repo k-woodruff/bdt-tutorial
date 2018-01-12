@@ -1,6 +1,7 @@
 # BDT Tutorial
 Hands-on boosted decision tree tutorial (using [XGBoost](https://xgboost.readthedocs.io/en/latest/)) for [September 2017 Fermilab Machine Learning Group Meeting](https://indico.fnal.gov/event/15356/)
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/k-woodruff/bdt-tutorial/master)
 [![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-brightgreen.svg)](http://nbviewer.jupyter.org/github/k-woodruff/bdt-tutorial/tree/master/)
 
 ## Authors
